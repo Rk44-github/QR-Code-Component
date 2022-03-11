@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshots/desktop-preview.jpg)
-![](./screenshots/mobile-preview-375px.jpg)
+![](screenshots/desktop-preview.jpg)
+![](screenshots/mobile-preview-375px.jpg)
 
 These are the screenshots of the component that i coded.
  
@@ -29,8 +29,8 @@ These are the screenshots of the component that i coded.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Rk44-github/QR-Code-Component
+- Live Site URL: https://rk44-github.github.io/QR-Code-Component/
 
 ## My process
 I started with laying out the html markup first.
